@@ -1,9 +1,9 @@
-# Student_CGPA
+# Student CGPA
 CGPA of Students
 
 **The dataset is available with the owner**
 
-```Updates with each year```
+```Updated once in a year```
 
 - Currently it has only the data of around 1400 students. 
 - With each year, new addition would be done to it. 
